@@ -12,7 +12,7 @@ This dictionary project is a simple project built using reactjs that contains tw
 ### File Structure
 ***
 [Project File Structure]
-![Screenshot 2022-08-05 093042](https://user-images.githubusercontent.com/110601296/183015975-c5d4d416-aa38-4f27-997b-0585c3ef47c5.png)
+![Screenshot 2022-08-05 093042](![File structure](https://user-images.githubusercontent.com/110601296/183090150-f593136f-522c-455b-a26d-0120772c9a5e.png))
 
 
 ## Technologies and Libraries 
