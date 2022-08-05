@@ -1,32 +1,51 @@
-# miniproject
-Dictionary:
+## Table of Contents
+1. [General Info](#general-info)
+2. [File Structure](#file-structure)
+3. [Technologies](#technologies)
+4. [Installation](#installation)
 
-This project contains two sections, one for taking the user input and the other is for displaying the data. Whenever a user searches for a word, it stores that input in a state and trigger an API call based on the searched keyword parameter. 
-Libraries used:
 
-Axios: is a library I Used that is used to support the Promise API, native to JS ES6.
+### General Info
+***
+This dictionary project is a simple project built using reactjs that contains two sections, one for taking the user input and the other is for displaying the data. Whenever a user searches for a word, it stores that input in a state and trigger an API call based on the searched keyword parameter. 
 
-Here, I will be using a free opensource API called ‘Free Dictionary API’ to fetch all the required data.
+### File Structure
+***
+[Project File Structure]
+![Screenshot 2022-08-05 093042](https://user-images.githubusercontent.com/110601296/183015975-c5d4d416-aa38-4f27-997b-0585c3ef47c5.png)
 
-Build Setup
 
-First Step: 
+## Technologies
+***
+A list of technologies used within the project:
+* [Window10 ]
+* [Visual Studio ](https://code.visualstudio.com) 
+* [npm](https://nodejs.org): Version 8.15.1
+* [Library Axios]
+## Installation
+***
+First Step would be importing the Gelila’s dictionary folder in visual studio, make sure you have the NodeJs installed and have a react tools extension in the browser you are using 
+Second step would be opening the terminal and running the following commands:
+***
+$ npm install axios
 
-would be importing the Gelila’s dictionary in visual studio
+installs the library used for this project
 
-Second step:
+$ npm install react-icons --save
 
-would be opening the terminal and running the following commands:
+installs the the icons used for the search and mic button.
 
-npm start:
+
+$ npm start:
+
 
 Runs the app in the development mode. 
 Open http://localhost:3000 to view it in the browser.
 
-npm install axios:
 
-installs the library used for this project
-
-npm run :
+$ npm run
 
 Builds the app 
+
+
+
